@@ -1,1 +1,20 @@
-jajaha
+[
+  {
+    "cargo": "Analista de Sistemas",
+    "periodo": "Out/2022 — Atual",
+    "bullets": [
+      "Atuação em projetos corporativos de grande escala para Petrobras, Sesc e Tecban, unindo levantamento de requisitos, análise técnica e proposição de soluções.",
+      "Análise, especificação e implementação de APIs REST usando Java, Spring Boot e Hibernate/JPA, com bancos Oracle/SQL.",
+      "Análise de causas-raiz e resolução de incidentes em produção, com apoio de Jenkins (CI/CD) e versionamento em Git/GitHub.",
+      "Uso de Redis e OpenSearch para otimização de consultas e indexação de dados em ambiente Linux.",
+      "Participação em análises de qualidade e integridade de dados em integrações entre sistemas corporativos, com atenção a requisitos de conformidade regulatória."
+    ]
+  },
+  {
+    "cargo": "Estagiária",
+    "periodo": "Dez/2021 — Set/2022",
+    "bullets": [
+      "Suporte à análise de requisitos, documentação de processos e correção de bugs em sistemas corporativos, com apoio da equipe sênior."
+    ]
+  }
+]
