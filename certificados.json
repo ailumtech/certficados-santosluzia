@@ -1,119 +1,114 @@
-{
-    id: 13,
-    nome: "Excel Avançado",
-    emissor: "SENAI São Paulo",
-    data: "set de 2021",
-    status: "Concluído"
-  },
-
+[
   {
-    id: 12,
-    nome: "Espanhol Avançado",
-    emissor: "E.E. Benedito Fagundes Marques",
-    data: "dez de 2020",
-    status: "Concluído"
+    "id": 13,
+    "nome": "Excel Avançado",
+    "emissor": "SENAI São Paulo",
+    "data": "set de 2021",
+    "status": "Concluído"
   },
-
   {
-    id: 11,
-    nome: "Node.js",
-    emissor: "Rocketseat",
-    data: "jan de 2022",
-    status: "Concluído"
+    "id": 12,
+    "nome": "Espanhol Avançado",
+    "emissor": "E.E. Benedito Fagundes Marques",
+    "data": "dez de 2020",
+    "status": "Concluído"
   },
-
   {
-    id: 10,
-    nome: "JavaScript",
-    emissor: "Rocketseat",
-    data: "jan de 2022",
-    status: "Concluído"
+    "id": 11,
+    "nome": "Node.js",
+    "emissor": "Rocketseat",
+    "data": "jan de 2022",
+    "status": "Concluído"
   },
-
   {
-    id: 9,
-    nome: "JavaScript Assíncrono e Promises",
-    emissor: "Rocketseat",
-    data: "mar de 2022",
-    status: "Concluído"
+    "id": 10,
+    "nome": "JavaScript",
+    "emissor": "Rocketseat",
+    "data": "jan de 2022",
+    "status": "Concluído"
   },
-
   {
-    id: 8,
-    nome: "SQL Avançado",
-    emissor: "Rocketseat",
-    data: "jul de 2022",
-    status: "Concluído"
+    "id": 9,
+    "nome": "JavaScript Assíncrono e Promises",
+    "emissor": "Rocketseat",
+    "data": "mar de 2022",
+    "status": "Concluído"
   },
-
   {
-    id: 7,
-    nome: "HTTP: Entendendo a Web por Baixo dos Panos",
-    emissor: "Alura",
-    data: "set de 2022",
-    url: "https://cursos.alura.com.br/certificate/luzia-santos/http-fundamentos",
-    status: "Concluído"
+    "id": 8,
+    "nome": "SQL Avançado",
+    "emissor": "Rocketseat",
+    "data": "jul de 2022",
+    "status": "Concluído"
   },
-
   {
-    id: 6,
-    nome: "React: Integrando seu projeto React com APIs",
-    emissor: "Alura",
-    data: "set de 2022",
-    url: "https://cursos.alura.com.br/certificate/luzia-santos/react-integrando-projeto-react-apis",
-    status: "Concluído"
+    "id": 7,
+    "nome": "HTTP: Entendendo a Web por Baixo dos Panos",
+    "emissor": "Alura",
+    "data": "set de 2022",
+    "url": "https://cursos.alura.com.br/certificate/luzia-santos/http-fundamentos",
+    "status": "Concluído"
   },
-
   {
-    id: 5,
-    nome: "Java JRE e JDK: compile e execute o seu programa",
-    emissor: "Alura",
-    data: "mar de 2023",
-    url: "https://cursos.alura.com.br/certificate/96103cd3-936d-473e-8af3-45f4d29b75be",
-    status: "Concluído"
+    "id": 6,
+    "nome": "React: Integrando seu projeto React com APIs",
+    "emissor": "Alura",
+    "data": "set de 2022",
+    "url": "https://cursos.alura.com.br/certificate/luzia-santos/react-integrando-projeto-react-apis",
+    "status": "Concluído"
   },
-
   {
-    id: 4,
-    nome: "Java",
-    emissor: "Ada",
-    data: "mai de 2023",
-    url: "https://www.linkedin.com/feed/update/urn:li:activity:7068729045185609728/",
-    status: "Concluído"
+    "id": 5,
+    "nome": "Java JRE e JDK: compile e execute o seu programa",
+    "emissor": "Alura",
+    "data": "mar de 2023",
+    "url": "https://cursos.alura.com.br/certificate/96103cd3-936d-473e-8af3-45f4d29b75be",
+    "status": "Concluído"
   },
-
   {
-    id: 3,
-    nome: "Docker",
-    emissor: "Udemy",
-    data: "jan de 2024",
-    url: "https://www.udemy.com/certificate/UC-13bda4d7-858f-4ce2-ab76-cca1462846b8/",
-    status: "Concluído"
+    "id": 4,
+    "nome": "Java",
+    "emissor": "Ada",
+    "data": "mai de 2023",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7068729045185609728/",
+    "status": "Concluído"
   },
-
   {
-    id: 2,
-    nome: "Fundamentos do n8n e Agentes de IA",
-    emissor: "Udemy",
-    data: "set de 2025",
-    url: "https://www.udemy.com/certificate/UC-50c20832-3870-4f88-8f8b-2a63b06f29b5/",
-    status: "Concluído"
+    "id": 3,
+    "nome": "Docker",
+    "emissor": "Udemy",
+    "data": "jan de 2024",
+    "url": "https://www.udemy.com/certificate/UC-13bda4d7-8580-4f88-8f8b-2a63b06f29b5/",
+    "status": "Concluído"
   },
-
   {
-    id: 1,
-    nome: "Copilot",
-    emissor: "Santander Open Academy",
-    data: "abr de 2026",
-    imagem: copilot,
-    status: "Concluído"
+    "id": 2,
+    "nome": "Fundamentos do n8n e Agentes de IA",
+    "emissor": "Udemy",
+    "data": "set de 2025",
+    "url": "https://www.udemy.com/certificate/UC-50c20832-3870-4f88-8f8b-2a63b06f29b5/",
+    "status": "Concluído"
   },
-
   {
-    id: 14,
-    nome: "Databricks Certified Data Engineer Associate",
-    emissor: "Databricks",
-    data: "",
-    status: "Em andamento"
+    "id": 1,
+    "nome": "Copilot",
+    "emissor": "Santander Open Academy",
+    "data": "abr de 2026",
+    "imagem": "imagens/copilot.png",
+    "status": "Concluído"
+  },
+  {
+    "id": 14,
+    "nome": "Databricks Fudamentals Accreditation",
+    "emissor": "Databricks",
+    "data": "mar de 2026",
+    "status": "Concluído"
   }
-}
+  {
+    "id": 15,
+    "nome": "Databricks Certified Data Engineer Associate",
+    "emissor": "Databricks",
+    "data": "",
+    "status": "Em andamento"
+  }
+]
