@@ -1,24 +1,26 @@
-{
-    curso: "Bacharelado em Direito",
-    inst: "Universidade Cidade de São Paulo (UNICID)",
-    periodo: "2026 — 2031",
-    status: "Em andamento",
+[
+  {
+    "curso": "Bacharelado em Direito",
+    "inst": "Universidade Cidade de São Paulo (UNICID)",
+    "periodo": "2026 — 2031",
+    "status": "Em andamento"
   },
   {
-    curso: "Engenharia de Dados",
-    inst: "Universidade Anhanguera",
-    periodo: "2026 — 2027",
-    status: "Em andamento",
+    "curso": "Engenharia de Dados",
+    "inst": "Universidade Anhanguera",
+    "periodo": "2026 — 2027",
+    "status": "Em andamento"
   },
   {
-    curso: "Tecnólogo em Ciência de Dados",
-    inst: "Fatec Santana de Parnaíba",
-    periodo: "2020 — 2023",
-    status: "Concluído",
+    "curso": "Tecnólogo em Ciência de Dados",
+    "inst": "Fatec Santana de Parnaíba",
+    "periodo": "2020 — 2023",
+    "status": "Concluído"
   },
   {
-    curso: "Técnico em Desenvolvimento de Sistemas",
-    inst: "Etec Dr. Emílio Hernandez Aguilar",
-    periodo: "2018 — 2019",
-    status: "Concluído",
+    "curso": "Técnico em Desenvolvimento de Sistemas",
+    "inst": "Etec Dr. Emílio Hernandez Aguilar",
+    "periodo": "2018 — 2019",
+    "status": "Concluído"
   }
+]
