@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "titulo": "Luzia Santos — Data & Governance | LGPD",
+    "descricao": "Systems Analyst with experience in large-scale corporate projects, working on requirements gathering, technical analysis and systems integration for clients such as Petrobras, Sesc and Tecban. A complementary background in Law broadens my view of governance, data quality and compliance with Brazil's LGPD, bringing together technology, business and regulation."
+  },
+  "nav": {
+    "home": "Home",
+    "perfil": "Profile",
+    "experiencia": "Experience",
+    "projetos": "Projects",
+    "educacao": "Education",
+    "certificacoes": "Certifications",
+    "indiceAriaLabel": "Dossier index",
+    "abrirIndiceAriaLabel": "Open index"
+  },
+  "idioma": {
+    "ptLabel": "PT",
+    "enLabel": "EN",
+    "trocarAriaLabel": "Switch language"
+  },
+  "hero": {
+    "quemSou": "Who I am",
+    "nome": "Luzia Santos",
+    "especializacaoLabel": "Specialization",
+    "especializacao": "Data & Governance",
+    "subtitulo": "Experience in corporate systems, now applied to data, governance and LGPD.",
+    "botaoCurriculo": "View résumé"
+  },
+  "contatos": {
+    "whatsappLabel": "WHATSAPP",
+    "whatsappValor": "+55 11 98825-5794",
+    "emailLabel": "EMAIL",
+    "emailValor": "aluziagabriela@gmail.com",
+    "linkedinAriaLabel": "Luzia Santos on LinkedIn",
+    "githubAriaLabel": "Luzia Santos on GitHub",
+    "emailAriaLabel": "Send an email to Luzia Santos",
+    "whatsappAriaLabel": "Chat with Luzia Santos on WhatsApp"
+  },
+  "perfil": {
+    "eyebrow": "Professional Profile",
+    "titulo": "Systems, data and regulation in convergence",
+    "corpo": "Systems Analyst with experience in large-scale corporate projects, currently directing my career toward Data, Governance and Information Quality. Experience across environments such as Petrobras, Sesc and Tecban, covering requirements gathering, technical analysis, systems integration and technologies such as Java, APIs and SQL. My background in Data Science, Data Engineering and Law broadens my view of data architecture and management, LGPD, regulation and compliance."
+  },
+  "experiencia": {
+    "eyebrow": "Experience",
+    "titulo": "Professional history",
+    "empresaNome": "Certsys Tecnologia da Informação",
+    "empresaPeriodo": "Dec/2021 — Present · Career progression"
+  },
+  "projetos": {
+    "eyebrow": "Projects",
+    "titulo": "Data & Technology projects",
+    "carregando": "Loading projects…",
+    "erro": "Couldn't load projects from GitHub.",
+    "verGithub": "View GitHub →",
+    "semProjetos": "No projects found.",
+    "verProjeto": "View project →",
+    "anterior": "Previous project",
+    "proximo": "Next project",
+    "projetoPadrao": "Project developed by Luzia Santos"
+  },
+  "educacao": {
+    "eyebrow": "Education",
+    "titulo": "Academic background"
+  },
+  "certificacoes": {
+    "eyebrow": "Certifications",
+    "titulo": "Credentials",
+    "emitidaEm": "Issued in",
+    "verificarCertificado": "Verify certificate",
+    "verCertificado": "View certificate",
+    "comprovanteIndisponivel": "Proof not available",
+    "maisCertificacoes": "More certifications →",
+    "fecharAriaLabel": "Close certificate",
+    "imagemAlt": "Certificate"
+  },
+  "status": {
+    "concluido": "Completed",
+    "emAndamento": "In progress"
+  },
+  "footer": {
+    "assinatura": "Luzia Santos · Data, Governance & LGPD · Osasco – SP, Brazil"
+  },
+  "notFound": {
+    "titulo": "404",
+    "subtitulo": "Page not found",
+    "descricao": "The page you're looking for doesn't exist or has been moved.",
+    "voltar": "Back to home"
+  },
+  "erro": {
+    "titulo": "This page failed to load",
+    "descricao": "Something went wrong. Try reloading or going back to the home page.",
+    "tentarNovamente": "Try again",
+    "voltar": "Back to home"
+  }
+}
