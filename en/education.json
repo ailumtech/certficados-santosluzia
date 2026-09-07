@@ -1,0 +1,26 @@
+[
+  {
+    "curso": "Bachelor's Degree in Law",
+    "inst": "Universidade Cidade de São Paulo (UNICID)",
+    "periodo": "2026 — 2031",
+    "status": "In Progress"
+  },
+  {
+    "curso": "Data Engineering",
+    "inst": "Universidade Anhanguera",
+    "periodo": "2026 — 2027",
+    "status": "In Progress"
+  },
+  {
+    "curso": "Associate Degree in Data Science",
+    "inst": "Fatec Santana de Parnaíba",
+    "periodo": "2020 — 2023",
+    "status": "Completed"
+  },
+  {
+    "curso": "Technical Degree in Systems Development",
+    "inst": "Etec Dr. Emílio Hernandez Aguilar",
+    "periodo": "2018 — 2019",
+    "status": "Completed"
+  }
+]
