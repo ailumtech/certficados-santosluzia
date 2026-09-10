@@ -22,7 +22,7 @@
     "quemSou": "Quem sou",
     "nome": "Luzia Santos",
     "especializacaoLabel": "Especialização",
-    "especializacao": "Dados & Governança",
+    "especializacao": "Engenharia de dados & Governança",
     "subtitulo": "Experiência em sistemas corporativos, agora aplicada a dados, governança e LGPD.",
     "acessarCurrilo": "https://docs.google.com/document/d/17Lh1Ikhzl3WzzsiLYJSKkbu2QsbN4KiZ/view?usp=sharing",
     "botaoCurriculo": "Acessar currículo"
@@ -80,7 +80,7 @@
     "emAndamento": "Em andamento"
   },
   "footer": {
-    "assinatura": "Luzia Santos · Dados, Governança e LGPD · Osasco – SP, Brasil"
+    "assinatura": "Luzia Santos · Engenharia de dados, Governança e LGPD · Osasco – SP, Brasil"
   },
   "notFound": {
     "titulo": "404",
