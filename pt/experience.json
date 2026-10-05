@@ -1,20 +1,27 @@
 [
   {
     "cargo": "Analista de Sistemas",
-    "periodo": "Out/2022 — Atual",
+    "periodo": "Set/2022 — Atual",
     "bullets": [
-      "Atuação em projetos corporativos de grande escala para Petrobras, Sesc e Tecban, unindo levantamento de requisitos, análise técnica e proposição de soluções.",
-      "Análise, especificação e implementação de APIs REST usando Java, Spring Boot e Hibernate/JPA, com bancos Oracle/SQL.",
-      "Análise de causas-raiz e resolução de incidentes em produção, com apoio de Jenkins (CI/CD) e versionamento em Git/GitHub.",
-      "Uso de Redis e OpenSearch para otimização de consultas e indexação de dados em ambiente Linux.",
-      "Participação em análises de qualidade e integridade de dados em integrações entre sistemas corporativos, com atenção a requisitos de conformidade regulatória."
+      "Atuação em projetos corporativos de grande porte (Petrobras, Sesc e Tecban), desenvolvendo soluções para integração de sistemas, processamento de dados e implementação de regras de negócio em ambientes de alta volumetria.",
+      "Desenvolvimento e manutenção de integrações entre sistemas corporativos por meio de APIs REST, garantindo fluxo, consistência e disponibilidade dos dados.",
+      "Construção e evolução de processos de transformação de dados utilizando Java, SQL e Oracle, aplicando regras de negócio para geração de informações confiáveis e consistentes.",
+      "Análise, desenvolvimento e otimização de consultas SQL, procedures e rotinas de banco de dados para processamento de grandes volumes de informação.",
+      "Participação em projeto Open Finance realizando integração de múltiplas fontes de dados, contribuindo para interoperabilidade, qualidade e governança das informações.",
+      "Análise e tratamento de inconsistências de dados, identificação de causas-raiz e implementação de melhorias voltadas à Data Quality.",
+      "Levantamento e entendimento de requisitos de negócio, traduzindo necessidades funcionais em soluções técnicas orientadas a dados.",
+      "Mapeamento de fluxos de informação entre sistemas, análise de impactos e apoio à disponibilização de dados para consumo operacional e analítico.",
+      "Investigação e resolução de incidentes em produção relacionados a integrações, processamento de dados e desempenho de aplicações.",
+      "Elaboração de documentação técnica, promovendo rastreabilidade, padronização e governança dos processos.",
+      "Tecnologias: SQL • Oracle • Databricks • Data Engineering • ETL/ELT • Data Integration • APIs REST • Data Quality • Java • Spring Boot • Git/GitHub • Jenkins • Linux • Docker • Redis • OpenSearch • Grafana"
     ]
   },
   {
     "cargo": "Estagiária",
     "periodo": "Dez/2021 — Set/2022",
     "bullets": [
-      "Suporte à análise de requisitos, documentação de processos e correção de bugs em sistemas corporativos, com apoio da equipe sênior."
+      "Atuação na área de desenvolvimento de sistemas, utilizando metodologias ágeis e tecnologias voltadas à criação de novas funcionalidades e manutenção de aplicações internas e externas.",
+      "Participação em projetos, aplicação de bibliotecas e frameworks e apoio na melhoria contínua dos sistemas e processos de desenvolvimento."
     ]
   }
 ]

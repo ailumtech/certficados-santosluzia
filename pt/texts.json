@@ -1,7 +1,7 @@
 {
   "meta": {
-    "titulo": "Luzia Santos — Engenharia de Dados e Governança | LGPD",
-    "descricao": "Analista de Sistemas com experiência em projetos corporativos de grande porte, atuando no levantamento de requisitos, análise e integração de sistemas para clientes como Petrobras, Sesc e Tecban. Formação complementar em Direito amplia minha visão sobre governança, qualidade de dados e conformidade com a LGPD, aproximando tecnologia, negócio e regulação."
+    "titulo": "Luzia Santos — Analista de Sistemas | Engenharia de Dados",
+    "descricao": "Analista de Sistemas com foco em Engenharia de Dados, com experiência em integração de sistemas, processamento de dados e soluções para ambientes corporativos de grande porte como Petrobras, Sesc e Tecban. SQL, Python, Databricks, ETL/ELT e Data Integration."
   },
   "nav": {
     "home": "Home",
@@ -22,8 +22,8 @@
     "quemSou": "Quem sou",
     "nome": "Luzia Santos",
     "especializacaoLabel": "Especialização",
-    "especializacao": "Engenharia de dados & Governança",
-    "subtitulo": "Experiência em sistemas corporativos, agora aplicada a dados, governança e LGPD.",
+    "especializacao": "Engenharia de Dados",
+    "subtitulo": "SQL · Python · Databricks · ETL/ELT · Data Integration",
     "acessarCurrilo": "https://docs.google.com/document/d/17Lh1Ikhzl3WzzsiLYJSKkbu2QsbN4KiZ/view?usp=sharing",
     "botaoCurriculo": "Acessar currículo"
   },
@@ -39,8 +39,8 @@
   },
   "perfil": {
     "eyebrow": "Perfil Profissional",
-    "titulo": "Sistemas, dados e regulação em convergência",
-    "corpo": "Analista de Sistemas com experiência em projetos corporativos de grande porte, direcionando minha atuação para Dados, Governança e Qualidade da Informação. Atuação em ambientes como Petrobras, Sesc e Tecban, com experiência em levantamento de requisitos, análise técnica, integração de sistemas e tecnologias como Java, APIs e SQL. Minha formação em Ciência de Dados, Engenharia de Dados e Direito amplia minha visão sobre arquitetura e gestão de dados, LGPD, regulação e compliance."
+    "titulo": "Da integração de sistemas à engenharia de dados",
+    "corpo": "Analista de Sistemas com experiência em integração de sistemas, processamento de dados e desenvolvimento de soluções para ambientes corporativos de grande porte. Atuo na tradução de regras de negócio em soluções técnicas, construção de integrações, análise de dados e otimização de consultas SQL, contribuindo para a confiabilidade e disponibilidade das informações. Minha experiência inclui atuação com SQL, Oracle, APIs REST, Java, Databricks e integração de dados entre sistemas, além de atividades relacionadas a transformação de dados, qualidade da informação, análise de requisitos e investigação de inconsistências em ambientes de alta volumetria. Atualmente curso pós-graduação em Engenharia de Dados, aprofundando conhecimentos em Data Engineering, ETL/ELT, Data Pipelines, Modelagem de Dados, Big Data, Apache Spark e Cloud Computing. Também atuo como instrutora voluntária de Python, compartilhando conhecimentos de lógica, programação e análise de dados, reforçando meu compromisso com aprendizado contínuo e desenvolvimento da comunidade de tecnologia."
   },
   "experiencia": {
     "eyebrow": "Experiência",
@@ -80,7 +80,7 @@
     "emAndamento": "Em andamento"
   },
   "footer": {
-    "assinatura": "Luzia Santos · Engenharia de dados, Governança e LGPD · Osasco – SP, Brasil"
+    "assinatura": "Luzia Santos · Engenharia de Dados · Osasco – SP, Brasil"
   },
   "notFound": {
     "titulo": "404",
