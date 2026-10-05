@@ -1,20 +1,27 @@
 [
   {
     "cargo": "Systems Analyst",
-    "periodo": "Oct 2022 — Present",
+    "periodo": "Sep 2022 — Present",
     "bullets": [
-      "Worked on large-scale corporate projects for Petrobras, Sesc, and Tecban, combining requirements gathering, technical analysis, and solution design.",
-      "Analyzed, specified, and implemented REST APIs using Java, Spring Boot, and Hibernate/JPA, with Oracle/SQL databases.",
-      "Performed root cause analysis and resolved production incidents, using Jenkins (CI/CD) and Git/GitHub for version control.",
-      "Used Redis and OpenSearch to optimize queries and data indexing in Linux environments.",
-      "Participated in data quality and integrity assessments across integrations between corporate systems, with a focus on regulatory compliance requirements."
+      "Work on large-scale corporate projects (Petrobras, Sesc and Tecban), building solutions for systems integration, data processing and business-rule implementation in high-volume environments.",
+      "Developed and maintained integrations between corporate systems through REST APIs, ensuring data flow, consistency and availability.",
+      "Built and evolved data transformation processes using Java, SQL and Oracle, applying business rules to produce reliable and consistent information.",
+      "Analyzed, developed and optimized SQL queries, procedures and database routines for processing large volumes of information.",
+      "Took part in an Open Finance project integrating multiple data sources, contributing to interoperability, quality and governance of information.",
+      "Analyzed and handled data inconsistencies, identifying root causes and implementing Data Quality improvements.",
+      "Gathered and understood business requirements, translating functional needs into data-driven technical solutions.",
+      "Mapped information flows between systems, assessed impacts and supported data delivery for operational and analytical consumption.",
+      "Investigated and resolved production incidents related to integrations, data processing and application performance.",
+      "Wrote technical documentation, promoting traceability, standardization and process governance.",
+      "Technologies: SQL • Oracle • Databricks • Data Engineering • ETL/ELT • Data Integration • REST APIs • Data Quality • Java • Spring Boot • Git/GitHub • Jenkins • Linux • Docker • Redis • OpenSearch • Grafana"
     ]
   },
   {
     "cargo": "Software Development Intern",
     "periodo": "Dec 2021 — Sep 2022",
     "bullets": [
-      "Supported requirements analysis, process documentation, and bug fixing for corporate systems, working alongside senior team members."
+      "Worked in systems development using agile methodologies and technologies to build new features and maintain internal and external applications.",
+      "Took part in projects, applied libraries and frameworks, and supported continuous improvement of systems and development processes."
     ]
   }
 ]

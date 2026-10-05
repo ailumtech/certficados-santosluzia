@@ -1,19 +1,19 @@
 [
- {
-    "curso": "Data Engineering",
-    "inst": "Universidade Anhanguera",
-    "periodo": "2026 — 2027",
+  {
+    "curso": "Graduate Certificate (MBA) in Data Engineering",
+    "inst": "Anhanguera Educacional",
+    "periodo": "Aug 2026 — Aug 2027",
     "status": "In Progress"
   },
   {
-    "curso": "Associate Degree in Data Science",
+    "curso": "Bachelor's Degree in Data Science",
     "inst": "Fatec Santana de Parnaíba",
     "periodo": "2020 — 2023",
     "status": "Completed"
   },
   {
-    "curso": "Technical Degree in Systems Development",
-    "inst": "Etec Dr. Emílio Hernandez Aguilar",
+    "curso": "Technical Course in Systems Development",
+    "inst": "ETEC - Escola Técnica Estadual de São Paulo",
     "periodo": "2018 — 2019",
     "status": "Completed"
   }

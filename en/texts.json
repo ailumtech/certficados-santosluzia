@@ -1,7 +1,7 @@
 {
   "meta": {
-    "titulo": "Luzia Santos — Data Engineering and Governance | LGPD",
-    "descricao": "Systems Analyst with experience in large-scale corporate projects, working on requirements gathering, technical analysis and systems integration for clients such as Petrobras, Sesc and Tecban. A complementary background in Law broadens my view of governance, data quality and compliance with Brazil's LGPD, bringing together technology, business and regulation."
+    "titulo": "Luzia Santos — Systems Analyst | Data Engineering",
+    "descricao": "Systems Analyst focused on Data Engineering, with experience in systems integration, data processing and solutions for large-scale corporate environments such as Petrobras, Sesc and Tecban. SQL, Python, Databricks, ETL/ELT and Data Integration."
   },
   "nav": {
     "home": "Home",
@@ -22,8 +22,8 @@
     "quemSou": "Who I am",
     "nome": "Luzia Santos",
     "especializacaoLabel": "Specialization",
-    "especializacao": "Data engineering & Governance",
-    "subtitulo": "Experience in corporate systems, now applied to data, governance and LGPD.",
+    "especializacao": "Data Engineering",
+    "subtitulo": "SQL · Python · Databricks · ETL/ELT · Data Integration",
     "acessarCurrilo": "https://docs.google.com/document/d/1T1N-shFnGLEGDSohirrCP4FnqDd0N59Y/edit?usp=sharing&ouid=117073634538918497968&rtpof=true&sd=true",
     "botaoCurriculo": "View résumé"
   },
@@ -39,13 +39,13 @@
   },
   "perfil": {
     "eyebrow": "Professional Profile",
-    "titulo": "Systems, data and regulation in convergence",
-    "corpo": "Systems Analyst with experience in large-scale corporate projects, currently directing my career toward Data, Governance and Information Quality. Experience across environments such as Petrobras, Sesc and Tecban, covering requirements gathering, technical analysis, systems integration and technologies such as Java, APIs and SQL. My background in Data Science, Data Engineering and Law broadens my view of data architecture and management, LGPD, regulation and compliance."
+    "titulo": "From systems integration to data engineering",
+    "corpo": "Systems Analyst with experience in systems integration, data processing and building solutions for large-scale corporate environments. I translate business rules into technical solutions, build integrations, analyze data and optimize SQL queries, contributing to the reliability and availability of information. My experience includes SQL, Oracle, REST APIs, Java, Databricks and data integration between systems, as well as data transformation, information quality, requirements analysis and investigating inconsistencies in high-volume environments. I am currently pursuing a graduate program in Data Engineering, deepening my knowledge of Data Engineering, ETL/ELT, Data Pipelines, Data Modeling, Big Data, Apache Spark and Cloud Computing. I also volunteer as a Python instructor, sharing knowledge of logic, programming and data analysis, reinforcing my commitment to continuous learning and to the tech community."
   },
   "experiencia": {
     "eyebrow": "Experience",
     "titulo": "Professional history",
-    "empresaNome": "Certsys Tecnologia da Informação",
+    "empresaNome": "Certsys",
     "empresaPeriodo": "Dec/2021 — Present · Career progression"
   },
   "projetos": {
@@ -80,7 +80,7 @@
     "emAndamento": "In progress"
   },
   "footer": {
-    "assinatura": "Luzia Santos · Data, Governance & LGPD · Osasco – SP, Brazil"
+    "assinatura": "Luzia Santos · Data Engineering · Osasco – SP, Brazil"
   },
   "notFound": {
     "titulo": "404",
