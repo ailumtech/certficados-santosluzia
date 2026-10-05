@@ -107,9 +107,10 @@
   },
   {
     "id": 15,
-    "nome": "Databricks Certified Data Engineer Associate",
-    "emissor": "Databricks",
-    "data": "",
-    "status": "Em andamento"
+    "nome": "IA para seu novo emprego: Do currículo à entrevista",
+    "emissor": "Fundação Bradesco",
+    "imagem": "https://raw.githubusercontent.com/ailumtech/certficados-santosluzia/refs/heads/main/certificates-image/15.png",
+    "data": "Out 2026",
+    "status": "Completed"
   }
 ]
