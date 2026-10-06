@@ -112,5 +112,13 @@
     "imagem": "https://raw.githubusercontent.com/ailumtech/certficados-santosluzia/refs/heads/main/certificates-image/15.jpg",
     "data": "Out 2026",
     "status": "Completed"
+  },
+  {
+    "id": 16,
+    "nome": "Ethics in the Age of AI",
+    "emissor": "Fundação Bradesco",
+    "imagem": "https://raw.githubusercontent.com/ailumtech/certficados-santosluzia/refs/heads/main/certificates-image/16.jpg",
+    "data": "Out 2026",
+    "status": "Completed"
   }
 ]
