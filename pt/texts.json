@@ -50,7 +50,7 @@
   },
   "projetos": {
     "eyebrow": "Projetos",
-    "titulo": "Projetos em dados & Tecnologia",
+    "titulo": "Projetos & Publicações",
     "carregando": "Carregando projetos…",
     "erro": "Não foi possível carregar os projetos do GitHub.",
     "verGithub": "Ver GitHub →",
